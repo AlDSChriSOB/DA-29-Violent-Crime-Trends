@@ -1,0 +1,15 @@
+column,dtype,missing,missing_pct,distinct
+rownames,int64,0,0.0,1173
+year,int64,0,0.0,23
+violent,float64,0,0.0,1101
+murder,float64,0,0.0,184
+robbery,float64,0,0.0,947
+prisoners,int64,0,0.0,436
+afam,float64,0,0.0,1173
+cauc,float64,0,0.0,1173
+male,float64,0,0.0,1173
+population,float64,0,0.0,1173
+income,float64,0,0.0,1170
+density,float64,0,0.0,1173
+state,object,0,0.0,51
+law,object,0,0.0,2

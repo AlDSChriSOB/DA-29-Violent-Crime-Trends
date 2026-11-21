@@ -1,0 +1,16 @@
+{
+  "project": "Violent Crime Trends",
+  "executed_utc": "2026-11-21T10:14:15.920233+00:00",
+  "source": "https://vincentarelbundock.github.io/Rdatasets/csv/AER/Guns.csv",
+  "documentation": "https://vincentarelbundock.github.io/Rdatasets/doc/AER/Guns.html",
+  "sha256": "177921ab3faa86cab3588e6c996ef10c39d6b4497555cc26c5a6ba223ba66cf4",
+  "raw_rows": 1173,
+  "analysis_rows": 1173,
+  "excluded_rows": 0,
+  "exact_duplicate_rows": 0,
+  "duplicates_policy": "Retained; duplicate values do not necessarily mean duplicate entities.",
+  "python": "3.12.14",
+  "pandas": "2.2.3",
+  "numpy": "2.3.5",
+  "matplotlib": "3.10.8"
+}

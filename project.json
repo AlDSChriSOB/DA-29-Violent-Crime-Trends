@@ -1,0 +1,14 @@
+{
+  "id": 29,
+  "title": "Violent Crime Trends",
+  "question": "How does the unweighted mean state violent-crime rate change by year?",
+  "x": "year",
+  "y": "violent",
+  "mode": "time",
+  "caveat": "Equal-state averages are not national population-weighted rates; no gun-law causal effect is estimated.",
+  "action": "Use matching population weights and policy identification before evaluating laws.",
+  "csv": "https://vincentarelbundock.github.io/Rdatasets/csv/AER/Guns.csv",
+  "doc": "https://vincentarelbundock.github.io/Rdatasets/doc/AER/Guns.html",
+  "metric_label": "mean violent",
+  "method": "Complete-case descriptive comparison of violent by year; show group counts, mean, minimum and maximum."
+}
